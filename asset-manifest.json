@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lowlifearcade.github.io/csb-c7miq/static/css/main.e242e9c0.chunk.css",
+    "main.js": "https://lowlifearcade.github.io/csb-c7miq/static/js/main.5d412206.chunk.js",
+    "main.js.map": "https://lowlifearcade.github.io/csb-c7miq/static/js/main.5d412206.chunk.js.map",
+    "runtime-main.js": "https://lowlifearcade.github.io/csb-c7miq/static/js/runtime-main.b3b544c0.js",
+    "runtime-main.js.map": "https://lowlifearcade.github.io/csb-c7miq/static/js/runtime-main.b3b544c0.js.map",
+    "static/js/2.5551d99d.chunk.js": "https://lowlifearcade.github.io/csb-c7miq/static/js/2.5551d99d.chunk.js",
+    "static/js/2.5551d99d.chunk.js.map": "https://lowlifearcade.github.io/csb-c7miq/static/js/2.5551d99d.chunk.js.map",
+    "index.html": "https://lowlifearcade.github.io/csb-c7miq/index.html",
+    "static/css/main.e242e9c0.chunk.css.map": "https://lowlifearcade.github.io/csb-c7miq/static/css/main.e242e9c0.chunk.css.map",
+    "static/js/2.5551d99d.chunk.js.LICENSE.txt": "https://lowlifearcade.github.io/csb-c7miq/static/js/2.5551d99d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3b544c0.js",
+    "static/js/2.5551d99d.chunk.js",
+    "static/css/main.e242e9c0.chunk.css",
+    "static/js/main.5d412206.chunk.js"
+  ]
+}
